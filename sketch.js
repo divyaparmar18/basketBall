@@ -16,8 +16,8 @@ function setup(){
     ground = new Ground(600,height,1700,40)
     DustbinObj = new Dustbin(1090,300,150,0);
 
-     side1 = new Side(1030,300,110, -PI/13);
-     side2 = new Side(1100,300,110, PI/13);
+     side1 = new Side(1015,300,110, -PI/13);
+     side2 = new Side(1110,300,110, PI/13);
      side3 = new Side(1170,250,40, PI/2);
 
     // side3 = new Side(915,380,70,PI/2);
